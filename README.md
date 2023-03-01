@@ -1,6 +1,6 @@
 # Access to a Clean Managed Water Supply
 
-A dashboard created to to get a feel for programing interactive dashboards with python.
+An interactive dashboard built with Python.
 
 To take a look please run locally:
 - Download the 3 files (Jupyter Source File, CSV and a JPG)
